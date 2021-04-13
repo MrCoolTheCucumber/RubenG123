@@ -7,4 +7,4 @@
 - ⚡ Fun fact: When the imposter is sus 😳😳
 - 📝 Website: [rubenghatoaura.com](https://rubenghatoaura.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenG123)
+<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenG123) -->
